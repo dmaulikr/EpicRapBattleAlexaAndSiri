@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>EpicRapBattle.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>EpicRapBattleSiriIntent.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>EpicRapBattleSiriIntentUI.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B21898541DB701700065CDF0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B21898681DB701700065CDF0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B21898731DB701700065CDF0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B21898891DB7022E0065CDF0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B21898921DB7022F0065CDF0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
